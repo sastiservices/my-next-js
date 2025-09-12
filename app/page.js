@@ -1,6 +1,7 @@
 import Image from "next/image";
 export default function Home() {
   return (
+<<<<<<< HEAD
     <h1 className="text-3xl font-bold underline mt-[5rem] text-center">Ahmed Salman Portolio 2025dfslkfjslfkdfjsdklsdjdlkdsljsddjdldsksaddkaudjiodwadujaidaujdidausidsduidasudiasduasidudiudasiduidasudiudaiduids sdsdsddsddsadsd
         sdlkasjdlkasjdlkdkdljdlakdadkladalkdasjdlaskd
 
@@ -56,5 +57,8 @@ sdflksdjfkslfsjfsd
    
    sdasdkjdsajdskaj00sdfkdjfkfjaskdakdasddjkjdakasjdkdsad
     </h1>
+=======
+    <h1 className="text-3xl font-bold underline mt-[5rem] text-center">Ahmed Salman Portfolios 2025</h1>
+>>>>>>> 201b07d4e46512d8370bcbfe76763cacda38a8d6
   );
 }
