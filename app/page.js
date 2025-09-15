@@ -5,7 +5,7 @@ export default function Home() {
         Hello nafsiati pana
         dsfgdfgdfgddfgdfgdf lis hhghgfhfhfhfhfhfhfghfghfggfhhfhfggh okkkkkkkkkkkkkk
       
-      
+      okmok   okok ok okokokokokkokkokokokokokok
           bhai fine hai kia
           Hai nh
       </h5>
